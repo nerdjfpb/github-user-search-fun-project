@@ -10,10 +10,6 @@ It's a fun project with github user search. Made some beautiful cards with mui a
 - swr
 - axios
 
-# Live link
-
-https://github-user-search-fun-project.vercel.app/
-
 # How to run?
 
 Clone the repo and go to folder using `cmd``
@@ -22,3 +18,7 @@ Clone the repo and go to folder using `cmd``
 npm i // for installing all the dependencies
 npm run dev // for running the app
 ```
+
+# Live link
+
+https://github-user-search-fun-project.vercel.app/
